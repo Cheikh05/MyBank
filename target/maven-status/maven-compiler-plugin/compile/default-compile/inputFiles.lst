@@ -1,0 +1,13 @@
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/CompteCourant.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/CompteEpargne.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/doa/OperationRepository.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/doa/ClientRepository.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/Compte.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/Retrait.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/Operation.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/metier/IBanque.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/Depot.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/doa/CompteRepository.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/MaBanqueApplication.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/metier/IBanqueImpl.java
+/home/cheikh/Bureau/workspace-jee/Ma_banque/src/main/java/sn/cheikh/entities/Client.java

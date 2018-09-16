@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.pan-heading{
+	font-size:15px;
+	font-weight: bold;
+	color:#fff;
+	letter-spacing: 5px;
+	
+}
+
+.panel-design{
+	padding: 10px;
+}
+.enable{
+	background-color: green;
+}
+.contenu{
+	padding: 30px;
+}
+.error{
+	color: red;
+	font-weight: bold;
+	padding: 5px;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	background-color: #eee;
+	margin-left: 25px;
+	text-align: center;
+}
+.403{
+	margin: 25px;
+	border:1px solid #fff;
+	border-radius: 8px;
+	box-shadow: 1px 2px 5px #eee;
+	padding: 20px;
+}
+.403-head{
+	color:orange;
+	font-size:100px;
+	font-weight: bold;
+}
